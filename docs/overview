@@ -1,0 +1,23 @@
+# SLFW – Second Law First Wind
+
+**SLFW** is a modular wind-harvesting system that transforms chaotic airflow into clean, directional energy using gravity and mechanical rectification. It aligns with the Second Law of Thermodynamics by discretely converting low-quality turbulence into high-value torque through irreversible physical stages.
+
+Unlike traditional turbines, SLFW does not rely on continuous RPM or fragile electronics. It lifts a weighted slug using intermittent wind force, then drops it under controlled release to deliver sharp torque pulses into a flywheel. The result: high-resolution, buffered mechanical output — ready for DC generation or direct drive.
+
+This is not just a wind device — it is a **thermodynamic energy gate**. It performs entropy reduction on-site, turning ambient gradients into usable exergy with minimal loss and maximum durability. SLFW modules require no firmware, no feedback loops, and no rare materials.
+
+### Core Features
+
+- 🌀 Wind input → Gravity lift → Torque pulse → DC flywheel output  
+- 🔁 Discrete, repeatable, and hysteresis-free motion  
+- 🧱 Stackable modules (urban or rural)  
+- ⚙️ Ratchet-based unidirectional output, no inversion loss  
+- 🛠️ Fabricated with low-tech tools, deployable at scale  
+
+SLFW is part of the **Thermopunk** energy family: sovereign, scalable, second-law-aligned systems built for the collapse of fossil fuel EROI and the rise of post-carbon infrastructure.
+
+---
+
+**Status:** CAD prototype complete · CFD underway · Non-commercial license enforced
+
+For deployment, licensing, or contribution inquiries, see [LICENSE.md](../LICENSE.md)
